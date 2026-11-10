@@ -1,0 +1,23 @@
+{
+  "name": "lexio-rent",
+  "owner": {
+    "name": "Lexio Rent",
+    "email": "contact@lexio.rent",
+    "url": "https://lexio.rent/logiciel-location-voiture"
+  },
+  "metadata": {
+    "description": "Official Claude Code plugins from Lexio Rent, vehicle rental management software."
+  },
+  "plugins": [
+    {
+      "name": "lexio-api",
+      "source": "./",
+      "description": "Skill for building integrations with the Lexio Rent API v1 (vehicle rental: availability, quotes, rentals, payments, fleet, event sync).",
+      "version": "0.1.0",
+      "author": { "name": "Lexio Rent", "url": "https://lexio.rent/logiciel-location-voiture" },
+      "homepage": "https://docs.lexio.rent",
+      "license": "MIT",
+      "category": "development"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lexio-api-skill",
+  "version": "0.1.0",
+  "description": "Agent skill for building integrations with the Lexio Rent API v1, the REST API of the Lexio vehicle rental management software.",
+  "keywords": ["pi-package", "agent-skill", "lexio", "vehicle-rental", "car-rental", "rest-api", "openapi"],
+  "homepage": "https://lexio.rent/logiciel-location-voiture",
+  "repository": { "type": "git", "url": "git+https://github.com/lexio-rent-git/lexio-api-skill.git" },
+  "bugs": { "email": "contact@lexio.rent" },
+  "author": "Lexio Rent <contact@lexio.rent> (https://lexio.rent)",
+  "license": "MIT",
+  "files": ["skills/", "README.md", "LICENSE"],
+  "pi": { "skills": ["./skills"] }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lexio-rent/lexio-api",
+  "version": "0.1.0",
+  "description": "Build integrations with the Lexio Rent API v1, the REST API of the Lexio vehicle rental management software (availability, quotes, rentals, pick-up and return, payments, fleet, event sync).",
+  "private": false,
+  "skills": "./skills/"
+}
