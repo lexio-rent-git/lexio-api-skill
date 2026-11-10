@@ -36,7 +36,7 @@ The API is part of the Lexio Business plan: each rental company creates its own 
 pi install npm:lexio-api-skill
 ```
 
-**Any other agent**: copy `skills/lexio-api/` into your agent's skills directory.
+**Any other agent**: copy `plugins/lexio-api/skills/lexio-api/` into your agent's skills directory.
 
 ## Support and privacy
 

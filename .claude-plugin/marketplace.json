@@ -11,10 +11,13 @@
   "plugins": [
     {
       "name": "lexio-api",
-      "source": "./",
+      "source": "./plugins/lexio-api",
       "description": "Skill for building integrations with the Lexio Rent API v1 (vehicle rental: availability, quotes, rentals, payments, fleet, event sync).",
       "version": "0.1.0",
-      "author": { "name": "Lexio Rent", "url": "https://lexio.rent/logiciel-location-voiture" },
+      "author": {
+        "name": "Lexio Rent",
+        "url": "https://lexio.rent/logiciel-location-voiture"
+      },
       "homepage": "https://docs.lexio.rent",
       "license": "MIT",
       "category": "development"
